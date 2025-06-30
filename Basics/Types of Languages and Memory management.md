@@ -1,4 +1,5 @@
- 1. Procedural Programming
+Types of Languages :
+1. Procedural Programming
 Focus: Step-by-step instructions or procedures (functions).
 
 Style: Code is organized into procedures or functions.
